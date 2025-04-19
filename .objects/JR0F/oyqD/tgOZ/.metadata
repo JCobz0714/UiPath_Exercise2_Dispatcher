@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge ACME System 1 - Download Monthly Invoice",
+  "Type": "Screen",
+  "Id": "tgOZ4E6woUmhFNPQEcFcAg",
+  "Reference": "qgjk1-ARbkGC03mY1IqfQw/tgOZ4E6woUmhFNPQEcFcAg",
+  "ParentRef": "qgjk1-ARbkGC03mY1IqfQw/oyqDsvZsAkmq4SwAt2ugIA",
+  "Created": "2025-04-19T22:18:07.1986479Z",
+  "Updated": "2025-04-19T22:18:07.1986479Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
